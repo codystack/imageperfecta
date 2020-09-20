@@ -7,7 +7,7 @@ include ('./components/header.php');
 
 
 
-	<section style="background: #fff;">
+	<section style="background: #f2f2f2;">
 		<div class="container">
 			<div class="row">
 				<div class="section-heading text-center col-md-12" style="margin-top: 50px;">
