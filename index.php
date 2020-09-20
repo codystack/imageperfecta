@@ -20,37 +20,49 @@ include ('./components/header.php');
 					<div class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="./images/c1.jpg" alt="">
+                                <div class="overlay overlay-bg"></div>
+                                <a href="display">
+                                <img class="image img-fluid" src="./images/c1.jpg" alt="">
+                                </a>
 							</div>                                 
 						</div>
 						<div class="p-inner">
-							<h4>Portrait</h4>
+                        <a href="display">
+                            <h4>Event</h4>
+                        </a>
 						</div>                                         
                     </div>
                     
                     <div class="single-portfolio col-sm-4 all packaging">
 						<div class="relative">
 							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="./images/p3.jpg" alt="">
+                                <div class="overlay overlay-bg"></div>
+                                <a href="display">
+                                <img class="image img-fluid" src="./images/p3.jpg" alt="">
+                                </a>
 							</div>
 
 						</div>
 						<div class="p-inner">
-							<h4>Product</h4>
+                            <a href="display">
+                            <h4>Product</h4>
+                            </a>
 						</div>
                     </div>
                     
 					<div class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
-								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="./images/c2.jpg" alt="">
+                                <div class="overlay overlay-bg"></div>
+                                <a href="display">
+                                <img class="image img-fluid" src="./images/c2.jpg" alt="">
+                                </a>
 							</div>                                
 						</div>
 						<div class="p-inner">
-							<h4>Fashion</h4>
+                        <a href="display">
+                            <h4>Fashion</h4>
+                        </a>
 						</div>                                         
 					</div>                            
 					
