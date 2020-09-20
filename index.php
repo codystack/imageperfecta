@@ -15,50 +15,40 @@ include ('./components/header.php');
 				</div>
 			</div>
 
-			<div class="filters-content" style="margin-top: 50px;">
+			<div class="filters-content" style="margin-top: 30px;">
 				<div class="row grid">
 					<div class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image" src="./images/8.jpg" alt="">
+								<img class="image img-fluid" src="./images/c1.jpg" alt="">
 							</div>                                 
 						</div>
 						<div class="p-inner">
-							<h4>Square Box Mockup</h4>
+							<h4>Portrait</h4>
 						</div>                                         
 					</div>
 					<div class="single-portfolio col-sm-4 all mockup">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="images/p2.jpg" alt="">
-							</div>
-							<a href="images/p2.jpg" class="img-pop-up">  
-								<div class="middle">
-									<div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
-								</div>
-							</a>                                  
+								<img class="image img-fluid" src="./images/c2.jpg" alt="">
+							</div>                                
 						</div>
 						<div class="p-inner">
-							<h4>Product Box Package Mockup</h4>
+							<h4>Fashion</h4>
 						</div>                                         
 					</div>                            
 					<div class="single-portfolio col-sm-4 all packaging">
 						<div class="relative">
 							<div class="thumb">
 								<div class="overlay overlay-bg"></div>
-								<img class="image img-fluid" src="images/p3.jpg" alt="">
+								<img class="image img-fluid" src="./images/p3.jpg" alt="">
 							</div>
-							<a href="images/p3.jpg" class="img-pop-up">  
-								<div class="middle">
-									<div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
-								</div>
-							</a> 
 
 						</div>
 						<div class="p-inner">
-							<h4>Creative Package Design</h4>
+							<h4>Product</h4>
 						</div>
 					</div>
 				</div>
