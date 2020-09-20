@@ -5,8 +5,10 @@ include ('./components/header.php');
 <section>
 		<div class="container">
         <div class="row">
-				<div class="section-heading text-center col-md-12" style="margin-top: 50px;">
+                <div class="section-heading text-center col-md-12" style="margin-top: 50px;">
+                <a href="">
                     <img src="./images/logow.png" style="width: 250px;">
+                </a>
 				</div>
 			</div>
 
