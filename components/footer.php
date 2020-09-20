@@ -1,35 +1,11 @@
-<footer class="site-footer">
-		<div class="container">
-
-			<div class="row mb-1">
-				<p class="col-12 text-center">
-
-					Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Built by <a href="https://thankgodokoro.codes" target="_blank" style="color: #fff">TeeGee</a>
-
-				</p>
-			</div>
-			
-			<!--<div class="row mb-5">
-				<div class="col-md-12 text-center">
-					<p>
-						<a href="#" class="social-item"><span class="icon-facebook2"></span></a>
-						<a href="#" class="social-item"><span class="icon-twitter"></span></a>
-						<a href="#" class="social-item"><span class="icon-instagram2"></span></a>
-						<a href="#" class="social-item"><span class="icon-linkedin2"></span></a>
-					</p>
-				</div>
-			</div>-->
-			
-		</div>
-	</footer>
-
-
-
 
 	<script src="js/vendor/jquery.min.js"></script>
 	<script src="js/vendor/jquery-migrate-3.0.1.min.js"></script>
 	<script src="js/vendor/popper.min.js"></script>
 	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/popper.js"></script>
+    <script src="js/main.js"></script>
+
 
 	<script src="js/vendor/jquery.easing.1.3.js"></script>
 

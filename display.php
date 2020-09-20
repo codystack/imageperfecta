@@ -1,16 +1,10 @@
 <?php
 include ('./components/header.php');
+include ('./components/navbar.php');
 ?>
 
-<section>
+<section class="site-section" style="background: #f2f2f2;">
 		<div class="container">
-        <div class="row">
-                <div class="section-heading text-center col-md-12" style="margin-top: 50px;">
-                <a href="">
-                    <img src="./images/logow.png" style="width: 250px;">
-                </a>
-				</div>
-			</div>
 
 			<div class="filters-content">
 				<div class="row grid">
