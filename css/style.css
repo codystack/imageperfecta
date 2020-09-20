@@ -1,7 +1,7 @@
 body {
   background: #fff;
   color: rgba(255, 255, 255, 0.4);
-  background: #222;
+  background: #000;
   line-height: 1.7;
   font-size: 16px;
   font-weight: 300; }
@@ -571,7 +571,8 @@ a {
     display: block; }
 
 .site-footer {
-  padding-top: 10px; }
+  padding-top: 10px;
+  padding-bottom: 10px; }
   .site-footer p:last-child {
     margin-bottom: 0; }
   .site-footer .social-item {

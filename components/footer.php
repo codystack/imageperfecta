@@ -4,7 +4,7 @@
 			<div class="row mb-1">
 				<p class="col-12 text-center">
 
-					Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Built with <i class="icon-heart text-danger" aria-hidden="true" ></i> by <a href="https://thankgodokoro.codes" target="_blank">TeeGee</a>
+					Copyright &copy; <script>document.write(new Date().getFullYear());</script> All Rights Reserved | Built by <a href="https://thankgodokoro.codes" target="_blank" style="color: #fff">TeeGee</a>
 
 				</p>
 			</div>
